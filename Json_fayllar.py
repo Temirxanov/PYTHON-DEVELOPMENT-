@@ -74,26 +74,3 @@
 # else:
 #     print("parol duris")
     
-
-
-# list = [1,1,2,2,3,3,4,4,5,6,6,7,7]
-# for san in list:
-#     qaytalaw=0
-#     for i in list:
-#         if i==san:
-
-
-
-product = [
-    {'Ati':'alma','Katigoriya':'miywe','summasi':5000},
-    {'Ati':'almurt','Katigoriya':'miywe','summasi':5000},
-    {'Ati':'banan','Katigoriya':'miywe','summasi':5000},
-    {'Ati':'may','Katigoriya':'onim','summasi':1200},
-    {'Ati':'','Katigoriya':'Paliz','summasi':5000},
-    {'Ati':'alma','Katigoriya':'miywe','summasi':5000},
-    {'Ati':'almurt','Katigoriya':'miywe','summasi':5000},
-    {'Ati':'banan','Katigoriya':'miywe','summasi':5000},
-    {'Ati':'may','Katigoriya':'onim','summasi':1200},
-    {'Ati':'','Katigoriya':'Paliz','summasi':5000},
-]
-
